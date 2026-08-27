@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "notes": "version initiale.",
-  "sha256":"bda450398baf5ae8a2299c4673376458e79b7db5eca7484424de387abf27ffff",
-  "download_url": "https://github.com/daouddiop/rahmavet-releases/releases/download/1.0.0/RahmaVetManager_Setup.exe"
+  "notes": "Rahma Vét Manager version stable, plus professionnelle et plus stable avec plusieurs ajustements et corrections",
+  "sha256":"6544da205c945c95ba45300d0b63b3daf6ce8c5cf9a43bde2c9aeddc71d51371",
+  "download_url": "https://github.com/daouddiop/rahmavet-releases/releases/download/v1.1.1/RahmaVetManager_Setup.exe"
 }
